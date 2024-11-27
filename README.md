@@ -14,7 +14,7 @@ Thank you for your interest in this project. While the repository remains access
 
 [![NPM](https://nodei.co/npm/faker-cli.png?downloads=true&stars=true)](https://nodei.co/npm/faker-cli/)
 
-A command-line wrapper for [faker](https://github.com/marak/Faker.js)
+A command-line wrapper for [faker](https://github.com/faker-js/faker)
 
 # Install.
 
